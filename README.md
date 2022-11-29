@@ -3,7 +3,7 @@ Blog para trabalho acadêmico, disponível em: https://s3.sa-east-1.amazonaws.co
 
 Alunos participantes:
 
-Adestenes Oliveira Gomes - RA: 922103396;
+Adestenes Oliveira Gomes - RA: 922103396; <br>
 Alan Ferreira de Souza - RA: 922103397;
 Alexsandro Joaquim Pereira dos Santos - RA: 922104710; *Turma 23*
 Elton Vinicios Almeida de Oliveira - RA: 922100912;
